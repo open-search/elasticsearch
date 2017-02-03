@@ -1,0 +1,6 @@
+cluster.name: opensearch
+node.name: node-1
+path.data: data
+path.logs: logs
+network.host: 0.0.0.0
+plugin.mandatory: ingest-attachment
