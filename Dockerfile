@@ -1,4 +1,4 @@
-FROM elasticsearch
+FROM elasticsearch:5.2.1
 
 #Install the pdf ingest plugin
 RUN /usr/share/elasticsearch/bin/elasticsearch-plugin install ingest-attachment
