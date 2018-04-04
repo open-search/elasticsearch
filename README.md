@@ -1,4 +1,4 @@
-# Elasticsearch 5.0
+# Elasticsearch 6.2
 
 To run from the command line use:
 
